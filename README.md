@@ -27,7 +27,7 @@ https://www.advancedwebranking.com/html/
 > ```<u>text</u>```
 
 #### 줄바꿈
-> ```<br>text```
+> ```<br>```
 
 > 줄만 바꾸는것이기에 닫는 태그가 필요없다.
 
@@ -40,4 +40,6 @@ https://www.advancedwebranking.com/html/
 
 #### 이미지 넣기
 ##### https://unsplash.com 에서 무료로 사진을 이용가능
-> ```<img src="site address">```
+> ```<img src="site address" width="num or percent">```
+
+
