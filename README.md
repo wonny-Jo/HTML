@@ -71,3 +71,11 @@ https://www.advancedwebranking.com/html/
         <td>text6</td>
       </tr>
     </table>
+
+#### 링크 설정하기
+```<a href="link site address" target="_blank" title="new title">text</a>```
+> href로 링크 주소를 설정
+
+> target="_blank"로 새탭으로 열리게 설정 가능.
+
+> title로 링크 위에 마우스를 대면 원하는 링크 제목이 뜨게 설정 가능.
