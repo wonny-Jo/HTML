@@ -1,5 +1,6 @@
 # HTML(Hypertext Markup Language)이란
 web page를 만드는 코드. 매우 간결하고 쉽다. 하지만 많이 쓰이기에 중요하다.
+
 web은 public domain이기에 무료라는 엄청난 메리트가 있다.
 
 ## atom 설치 과정
