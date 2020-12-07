@@ -42,4 +42,14 @@ https://www.advancedwebranking.com/html/
 ##### https://unsplash.com 에서 무료로 사진을 이용가능
 > ```<img src="site address" width="num or percent">```
 
-
+#### 목차 만들기
+##### 순서가 없는 목차 만들기
+      ```<ul>
+          <li>text1</li>
+          <li>text2</li>
+         </ul>```
+##### 순서가 있는 목차 만들기
+      ```<ol>
+          <li>text1</li>
+          <li>text2</li>
+         </ol>```
