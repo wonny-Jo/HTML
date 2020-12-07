@@ -16,6 +16,22 @@ web은 public domain이기에 무료라는 엄청난 메리트가 있다.
 ## HTML 태그(tag) 정리
 ### 태그가 정리되어 있는 사이트(통계적으로 많이 쓰이는 순으로)
 https://www.advancedwebranking.com/html/
+
+#### 기본 형식
+``` <!doctype html>
+<html>
+<head>
+  <title>title name</title>
+  <meta charset="utf-8">
+</head>
+
+<body>
+  
+</body>
+</html>
+```
+> 기본적으로 head와 body로 구분되어지며 head는 틀, body는 내용을 담는다고 생각하자.
+
 #### 제목란 만들기
 > ```<h1>text</h1>```
 
