@@ -44,12 +44,29 @@ https://www.advancedwebranking.com/html/
 
 #### 목차 만들기
 ##### 순서가 없는 목차 만들기
-      ```<ul>
-          <li>text1</li>
-          <li>text2</li>
-         </ul>```
+    ```<ul>
+         <li>text1</li>
+         <li>text2</li>
+       </ul>```
+
 ##### 순서가 있는 목차 만들기
-      ```<ol>
-          <li>text1</li>
-          <li>text2</li>
-         </ol>```
+    ```<ol>
+     <li>text1</li>
+     <li>text2</li>
+    </ol>```
+
+#### 표 만들기
+    ```<table>
+      <tr>
+        <td>text1</td>
+        <td>text2</td>
+      </tr>
+      <tr>
+        <td>text3</td>
+        <td>text4</td>
+      </tr>
+      <tr>
+        <td>text5</td>
+        <td>text6</td>
+      </tr>
+    </table>```
